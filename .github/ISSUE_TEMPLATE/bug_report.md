@@ -16,23 +16,28 @@ Write details about the bug
 -->
 
 **To Reproduce**
+
 Steps to reproduce the behavior:
+
 <!--
 how can we in the most minimal steps repoduce the error/ bug. , when possible please include a code sanbox with the minimal amount of code that repoduces the bug
 -->
 
 **Expected behavior**
+
 <!--
 A clear and concise description of what you expected to happen.
 -->
 
 **Screenshots**
+
 <!--
 If applicable, add screenshots to help explain your problem.
 -->
 
 
 **Additional context**
+
 <!--
 Tell us anything else you think we should know. (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, github threads)
 -->
