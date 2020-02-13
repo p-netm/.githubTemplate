@@ -11,7 +11,7 @@ Contributors guide: https://github.com/onaio/js-tools#contribution-guidelines
 
 <!-- What issue does this pr close -->
 
-** Changes included with this PR **
+**Changes included with this PR**
 
 <--
 list of non-trivial changes included with the PR 
